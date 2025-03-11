@@ -1,0 +1,145 @@
+.callout[data-callout="vascular"] {
+--callout-color: 255, 0, 0; 
+--callout-icon: droplet; 
+}
+
+.callout[data-callout="ent"] {
+--callout-color: 0, 200, 200; 
+--callout-icon: speech; 
+}
+
+.callout[data-callout="general"] {
+--callout-color: 0, 200, 100; 
+--callout-icon: slice; 
+}
+
+.callout[data-callout="urology"] {
+--callout-color: 200, 200, 0; 
+--callout-icon: droplets; 
+}
+
+.callout[data-callout="ortho"] {
+--callout-color: 255, 150, 120; 
+--callout-icon: bone; 
+}
+
+.callout[data-callout="mxfx"] {
+--callout-color: 150, 190, 255; 
+--callout-icon: skull; 
+}
+
+.callout[data-callout="cardio"] {
+--callout-color: 255, 90, 90; 
+--callout-icon: heart-pulse; 
+}
+
+.callout[data-callout="neuro"] {
+--callout-color: 128, 75, 255; 
+--callout-icon: brain; 
+}
+
+.callout[data-callout="obygyn"] {
+--callout-color: 255, 90, 255; 
+--callout-icon: scissors; 
+}
+
+.callout[data-callout="plastics"] {
+--callout-color: 255, 128, 0; 
+--callout-icon: person-standing; 
+}
+
+.callout[data-callout="optha"] {
+--callout-color: 64, 128, 128; 
+--callout-icon: eye; 
+}
+
+
+
+.callout[data-callout="prep"] {
+--callout-color: 0, 200, 255; 
+--callout-icon: loader; 
+}
+
+.callout[data-callout="open"] {
+--callout-color: 0, 200, 255; 
+--callout-icon: check-circle; 
+}
+
+.callout[data-callout="toopen"] {
+--callout-color: 0, 255, 0; 
+--callout-icon: loader-2; 
+}
+
+.callout[data-callout="wait"] {
+--callout-color: 200, 200, 0; 
+--callout-icon: hourglass; 
+}
+
+.callout[data-callout="sutures"] {
+--callout-color: 192, 192, 192; 
+--callout-icon: flip-horizontal-2; 
+}
+
+
+
+
+.callout[data-callout="home"] {
+--callout-color: 192, 192, 192; 
+--callout-icon: house-plus; 
+}
+
+.callout[data-callout="lib1"] {
+--callout-color: 192, 192, 192; 
+--callout-icon: book-open-text; 
+}
+
+.callout[data-callout="item"] {
+--callout-color: 192, 192, 192; 
+--callout-icon: stethoscope; 
+}
+
+.callout[data-callout="supply"] {
+--callout-color: 192, 192, 192; 
+--callout-icon: syringe; 
+}
+
+.callout[data-callout="equip"] {
+--callout-color: 192, 192, 192; 
+--callout-icon: microscope; 
+}
+
+.callout[data-callout="drug"] {
+--callout-color: 192, 192, 192; 
+--callout-icon: pill; 
+}
+
+
+.callout[data-callout="see"] {
+--callout-color: 0, 250, 220; 
+--callout-icon: plus-square; 
+}
+
+.callout[data-callout="assembly"] {
+--callout-color: 200, 135, 75; 
+--callout-icon: puzzle; 
+}
+
+.callout[data-callout="accessory"] {
+--callout-color: 200, 135, 75; 
+--callout-icon: wrench; 
+}
+
+.callout[data-callout="setting"] {
+--callout-color: 200, 135, 75; 
+--callout-icon: settings; 
+}
+
+.callout[data-callout="location"] {
+--callout-color: 45, 255, 45; 
+--callout-icon: map-pin; 
+}
+
+.callout[data-callout="pos"] {
+--callout-color: 10, 255, 255; 
+--callout-icon: person-standing; 
+}
