@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-introductory/surgery-list/"}
+{"share":"true","dg-publish":true,"permalink":"/0-introductory/surgery-list/","dgPassFrontmatter":true}
 ---
 
 # Max-Fax Set-up Guide

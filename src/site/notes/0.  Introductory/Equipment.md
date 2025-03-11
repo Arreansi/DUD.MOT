@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-introductory/equipment/"}
+{"share":"true","dg-publish":true,"permalink":"/0-introductory/equipment/","dgPassFrontmatter":true}
 ---
 
 
