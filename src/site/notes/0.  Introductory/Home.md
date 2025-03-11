@@ -2,14 +2,14 @@
 {"share":"true","dg-home":true,"dg-publish":true,"permalink":"/0-introductory/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
->[!Multi-Column]
->>[!lib1] [[0.  Introductory/Surgery List\|Surgery List]]
+>[!Multi-Column|center]
+>>[!lib1|center] [[0.  Introductory/Surgery List\|Surgery List]]
 >
->>[!Item] [[0.  Introductory/Instruments\|Instruments]]
+>>[!Item|center] [[0.  Introductory/Instruments\|Instruments]]
 >
->>[!Supply] [[0.  Introductory/Supplies\|Supplies]]
+>>[!Supply|center] [[0.  Introductory/Supplies\|Supplies]]
 >
->>[!Equip] [[0.  Introductory/Equipment\|Equipment]]
+>>[!Equip|center] [[0.  Introductory/Equipment\|Equipment]]
 
 
 ---
